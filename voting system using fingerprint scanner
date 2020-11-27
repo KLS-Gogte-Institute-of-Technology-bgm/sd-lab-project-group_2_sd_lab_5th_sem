@@ -1,6 +1,1 @@
-Offline Voting System using Fingerprint Scanner
 
-As we all know the importance of voting and how easily it can be tampered. In this scenario to put an end to the replication of votes we come up with an idea that uses fingerprint to cast the vote as every individual has a unique code.
-
-Here the system allows the user to sign up by entering the details such as name, age, voter_id, number etc. Later you need to upload the photo and scan your fingerprint.
-All of these details will be stored in the database for further verification. After entering valid details, On the day of voting you can login using your voter_id and  cast your vote using fingerprint scanner. Further checking the authentication on successful voting it will display a message else your vote will be abolished
