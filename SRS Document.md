@@ -1,4 +1,4 @@
-# SRS document for super market management
+# SRS document for inventory management
 
 ## 1. Functional Requirements:
 1. User login : A registered user can login to the system by providing his username and password.
