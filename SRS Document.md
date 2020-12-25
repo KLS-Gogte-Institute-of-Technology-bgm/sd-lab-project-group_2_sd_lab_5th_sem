@@ -13,26 +13,17 @@
 	   
 3. View products : A valid user of the system can view the existing products and their details like
 	 product name, brand, price per unit, quantity.
-	  
-4. Update product details : A valid user of the system can update the details of existing products
-	 like updating product quantity of existing product.
 	
-5. Remove a product : A valid user of the system can remove an existing product in cases like product
+4. Delete a product : A valid user of the system can remove an existing product in cases like product
 	 expiry.
-	   
-6. Sell products : A valid user of the system can sell one or more products and once the products are 
-	 sold, the database will be updated.
-	   
-7. Add new customer : A valid user of the system can add a new customer by providing details like customer
-	 name, mobile number, address.
-	   
-8. View customer details : A valid user of the system can view the details of existing customers.
+
+5. Search for a product by name: A valid user of the system can search for an existing product by providing product name.
 	
 ## 2. Non-Functional Requirements:
 1. Minimum system requirements:
 	 1. RAM - 1GB
 	 2. Processor - Pentium Dual Core 1.8 Ghz or better
-   3. Operating System - Linux / Windows 7 or later
+   	 3. Operating System - Linux / Windows 7 or later
    
 2. Performance requirements: 
 	 1. The system should remain accessible 24x7.
