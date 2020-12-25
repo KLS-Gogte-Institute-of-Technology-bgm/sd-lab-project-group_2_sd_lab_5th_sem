@@ -1,4 +1,4 @@
-# Proposal - Super Market Management System
+# Proposal - Inventory Management System
 + Inventory management is not so easy by usual means of manual traditional techniques. 
 + So to make this process easy a software with many functionalities can be developed. functionalities like adding, deleting products, updating the database, 
 searching products would make this task easy.
