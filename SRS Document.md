@@ -3,8 +3,8 @@
 ## 1. Functional Requirements:
 1. User login : A registered user can login to the system by providing his username and password.
 	 After successful login, the home page is shown from where the user can access the different 
-	 functionalities of the system like adding, deleting, viewing, updating product details, add 
-	 customer details. If the user enters wrong username or password or if the user is not authorised,
+	 functionalities of the system like adding, deleting, viewing, searching products. 
+	 If the user enters wrong username or password or if the user is not authorised,
 	 then he cannot access the home page and a login failure message will be shown to the user and the
 	 user has to enter the correct username and password to successfully login.
 	   
