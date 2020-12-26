@@ -4,7 +4,7 @@
 searching products would make this task easy.
 + The software will first ask the login credentials then it will list up various options like view products in warehouse, add new products, delete a product and search for a product.
 ## Build with
-* Python tkinter GUI and MySQL database.
+* Python tkinter GUI and sqlite3 database.
 
 ## Authors
 * **Sagar Talagatti** 
