@@ -30,5 +30,5 @@
   
 3. Design constraints:
 	 1. The system should be developed as an offline application using Python programming language.
-	 2. The application should use MySQL database.
+	 2. The application should use sqlite3 database.
 
