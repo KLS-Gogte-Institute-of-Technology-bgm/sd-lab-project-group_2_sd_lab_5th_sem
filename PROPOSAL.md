@@ -7,7 +7,7 @@ searching products would make this task easy.
 * Python tkinter GUI and sqlite3 database.
 
 ## Authors
-* **Sagar Talagatti** 
-* **Naman Mehta** 
-* **Parth Zanvar** 
-* **Pragati Shetty**
+* **Sagar Talagatti 2GI18CS115** 
+* **Naman Mehta 2GI18CS075** 
+* **Parth Zanvar 2GI18CS085** 
+* **Pragati Shetty 2GI18CS090**
